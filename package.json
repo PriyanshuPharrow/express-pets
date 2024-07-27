@@ -4,14 +4,16 @@
     "dev": "nodemon db.js"
   },
   "dependencies": {
-    "cloudinary": "^1.41.0",
+    "cloudinary": "^2.3.1",
     "cookie-parser": "^1.4.6",
-    "dotenv": "^16.3.1",
-    "ejs": "^3.1.9",
-    "express": "^4.18.2",
-    "mongodb": "^6.2.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
     "node-cache": "^5.1.2",
-    "nodemon": "^3.0.1",
-    "sanitize-html": "^2.11.0"
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4",
+    "sanitize-html": "^2.13.0",
+    "validator": "^13.12.0"
   }
 }
